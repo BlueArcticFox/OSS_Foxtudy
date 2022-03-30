@@ -19,3 +19,9 @@ Generate Tokken & Commit from git
 
 ### 2022/3/23
 Introduce team project   
+
+### 2022/3/29
+Remind What is OSS_dev   
+
+### 2022/3/30
+Learning & Training Netlify using jekyll   
