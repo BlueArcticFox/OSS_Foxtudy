@@ -25,3 +25,7 @@ Remind What is OSS_dev
 
 ### 2022/3/30
 Learning & Training Netlify using jekyll   
+
+### 2022/4/5
+Learning what i do in OSS_dev class   
+Traing how to make branch   
